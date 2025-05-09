@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadi104&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadi104" /> </p>
 
-- 🌱 I’m currently learning **Nextjs and TypeScript**
+- 🌱 I’m currently learning and building with **React**, **Next.js**, and **Tailwind CSS**
 -  🔨 I love building **responsive** and **user-friendly** websites
 - 💬 Ask me about **react,JavaScript,Nextjs**
 
