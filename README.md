@@ -16,7 +16,7 @@
 <h3 align="left">📫 Connect with me:</h3>
  
 - 📧 Email: ezatullahahmadi2023f@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/ezatullah-ahmadi)
+- 💼 [www.linkedin.com/in/ezatullah-ahmadi]
 <p align="left">
 </p>
 
