@@ -3,6 +3,7 @@
 <img align="right" alt="Coding image" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadi104&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadi104" /> </p>
+<h3 align="left">💻 About Me:</h3>
 
 - 🌱 I’m currently learning and building with **React**, **Next.js**, and **Tailwind CSS**
 -  🔨 I love building **responsive** and **user-friendly** websites
