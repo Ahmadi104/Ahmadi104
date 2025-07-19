@@ -1,4 +1,4 @@
-<img src="https://github.com/Ahmadi104/Ahmadi104/blob/main/linkedin-banner (2).png" alt="banner" style="width:100%;" />
+<img src="https://github.com/Ahmadi104/Ahmadi104/blob/main/github.png" alt="banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Ezatullah</h1>
 <h2 align="center">A passionate frontend developer from Afghanistan</h2>
