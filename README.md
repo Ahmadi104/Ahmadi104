@@ -55,7 +55,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"  />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50" style=" background-color: white; border-radius: 6px; padding: 4px;" />
+     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="github"/>
   </a>&nbsp;&nbsp;
 </p>&nbsp;
 
