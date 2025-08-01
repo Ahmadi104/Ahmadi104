@@ -1,8 +1,8 @@
 <img src="https://github.com/Ahmadi104/Ahmadi104/blob/main/github.png" alt="banner" style="width:100%;" />
 
 <h1 align="center">Hi there, I'm Ezatullah Ahmadi</h1>
-<h2 align="center">A Passionate Frontend Developer from Afghanistan</h2>
-<h3 align="center">Frontend Developer | HTML&CSS | JavaScript | React.js | TailwindCSS | Next.js</h3>&nbsp;
+<h2 align="center">A Passionate Front-End Developer from Afghanistan</h2>
+<h3 align="center">Frontend Developer | HTML & CSS | JavaScript | React.js | TailwindCSS | Next.js</h3>&nbsp;
 <img align="right" alt="Coding image" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadi104&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadi104" /> </p>
